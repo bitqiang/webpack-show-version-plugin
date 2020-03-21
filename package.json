@@ -1,0 +1,23 @@
+{
+  "name": "webpack-show-version-plugin",
+  "version": "0.0.2",
+  "description": "构建后显示构建时间以及git信息的包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "show-version"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bitqiang/webpack-show-version-plugin.git"
+  },
+  "author": "bitqiang@outlook.com",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "execa": "^4.0.0"
+  }
+}
